@@ -1,0 +1,11 @@
+Firespitter is a mod maintained by Snjo on the KSP forums. 
+From his forum post:
+	License:
+
+	You may reuse code and textures from this mod, as long as you give credit in the download file and on the download post/page. Reuse of models with permission. No reselling. No redistribution of the whole pack without permission.
+
+	UV map texture guides are included so you can re-skin to your liking.
+
+	For reuse of the plugin, please either direct people to download the dll from my official release, OR recompile the wanted partmodule/class with a new class name to avoid conflicts.
+If you already have Firespitter installed, do not get another instance of it. This will create two instances of the Firespitter plugin which is a BAD THING^TM. 
+Download Firespitter here: http://snjo.github.io/ and choose the plugin option. 
